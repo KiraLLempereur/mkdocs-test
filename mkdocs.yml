@@ -1,10 +1,10 @@
-site_name: Kira's Docs As Code Extravaganza
+site_name: Kira Lempereur's Technical Writing & Technical Marketing Portfolio
 site_url: https://sitename.example
 theme:
   name: material
   font: 
-    text: Merriweather Sans
-    code: Red Hat Mono
+    text: Kantumruy Pro
+    code: Fragment Mono
   logo: assets/logo.png
   favicon: assets/favicon.png
   features:
@@ -16,7 +16,7 @@ theme:
         icon: material/weather-sunny
         name: Dark mode
       primary: deep purple
-      accent: green
+      accent: teal
 
     # Light Mode
     - scheme: default
@@ -24,8 +24,24 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: deep purple
-      accent: light green
-  
+      accent: green
+
+nav:
+  - Home: 'index.md'
+  - Technical Writing:
+    - My Tech Writing Experience: 'tech-writing.md'
+    - Product Documentation: 'product-docs.md'
+    - API Documentation: 'api-docs.md'
+  - Technical Marketing:
+    - My Tech Marketing Experience: 'tech-marketing.md'
+    - DataDome Global Bot Security Report: 'dd-global-bot-report.md'
+    - DataDome Tech Marketing Content: 'dd-content.md'
+  - Material Examples:
+    - Code Examples: 'code-examples.md'
+    - Content Tabs: 'content-tabs.md'
+    - Admonitions: 'admonitions.md'
+    - Diagrams: 'diagram-examples.md'
+
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
