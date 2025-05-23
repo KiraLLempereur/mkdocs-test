@@ -1,19 +1,13 @@
-# Welcome to MkDocs
+# Welcome to Kira's Technical Writing & Marketing Portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+!!! warning "Warning: Under Construction"
 
-## Commands
+    This portfolio is currently under construction.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## About Me
 
-## Project layout
+I’ve done 8+ years of technical writing and technical marketing for primarily SaaS and cloud-based products in tech and cybersecurity. I am looking for **Technical Marketing Manager** or **Lead Technical Writer** roles, primarily in tech.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Basic Resume Deets
 
-I :purple_heart: to drink :beers: after I play :soccer:. 
+## LinkedIn, GitHub Links (in footer?)
