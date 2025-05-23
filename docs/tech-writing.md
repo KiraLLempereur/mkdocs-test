@@ -18,13 +18,13 @@ My writing process follows this general outline:
 
 4. Is there an existing doc structure?
 
-```mermaid
-graph LR
-  A[Existing doc structure?] --> |Yes| B[Does it make sense?];
-  B --> |Yes| C[Fit new content into structure];
-  B --> |No| D[Design strong, scalable information architecture];
-  A --> |No| D;
-```
+    ```mermaid
+    graph LR
+    A[Existing doc structure?] --> |Yes| B[Does it make sense?];
+    B --> |Yes| C[Fit new content into structure];
+    B --> |No| D[Design strong, scalable information architecture];
+    A --> |No| D;
+    ```
 
 5. Gather the information through testing functionality myself, reading Jira tickets, and looking up whatever content the engineers and product managers have written in Confluence, Notion, etc.
 
